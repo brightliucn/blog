@@ -2,7 +2,6 @@
 layout: post
 title:  "Windows上安装jekyll"
 date:   2018-06-29 22:08:16 +0800
-categories: jekyll
 ---
 ## 在Windows上安装Ruby环境 ##
 

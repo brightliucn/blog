@@ -2,7 +2,6 @@
 layout: post
 title: "xml,ymal,json,protobuf格式的用途与比较"
 date: 2017-05-01 22:08:16 +0800
-categories: file-format
 ---
 
 数据存储和传输需要一个文件格式，几个常用的文件格式有xml,yaml,json,protobuf,适合用于不同的场景，xml可以用于数据存储或者数据传输，json主要用于服务端和客户端传输数据，yaml用于做配置文件，protobuf和之前的几个格式相比，属于二进制文件格式，多用于定义协议。
